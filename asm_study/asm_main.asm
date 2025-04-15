@@ -26,4 +26,6 @@ asm_main:
     pop rdi ; rdi 에 rdi 다시 채우기
     pop rbp ; rbp 에 rbp 다시 
 
+    ;;
+
     ret
